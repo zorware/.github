@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+🙋‍♀️ Zorware is run under Zoraez Imran Ltd and we have fun with tech , oss , operating systems , viruses , etc.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+🌈 If you wanna get involved and give some material to us join our discord server
+
+👩‍💻 Resources can be found at our repo called zorware-resources
+
+🍿 No Fun Facts for now
+
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
